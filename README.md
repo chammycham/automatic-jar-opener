@@ -1,0 +1,6 @@
+Capstone group project was to make and program an automatic jar opener as an aid to those who may require additional mobility or strength to open jars. The prototype was created at the end of four months and was presented to the class where it successfully opened a pasta sauce jar. The system was designed to open jars with radii between 3-5cm and heights of 10-20cm using an adjustable gripping mechanism. Measured torque was 15.3Nm, which surpassed the target torque of 9Nm. This was based off of research indicating that vacuum-sealed jars require 6Nm to open, with an additional safety factor of 1.5. The device consists of four primary movements to open jars: a raising and lowering platform to conform to varying jar heights, opening and closing two sets of three-jaw chucks to clamp the jar and lid in place, and a twisting motion on the base of the jar. This was powered by an external power supply at 12V and was controlled by running Python code from a terminal. Final design and circuit diagram shown below.
+
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/8b954c95-fd90-4663-883d-c52de047d2ce" alt="Design Image 1">
+    <img src="https://github.com/user-attachments/assets/0b27c59f-9ab6-442b-980d-cc0f8fdbe8fe" alt="Design Image 2">
+</div>
